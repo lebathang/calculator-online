@@ -1,7 +1,7 @@
 # calculator-online
 
 ### Screen-shot
-![image](https://cdn.discordapp.com/attachments/1053081261394116781/1278607644147318840/image.png?ex=66d16ba9&is=66d01a29&hm=ced90888fae8840d86b76061ecc865703cffd5323b8b32dd5cdbbe82b78fc758&)
+![image](https://raw.githubusercontent.com/lebathang/calculator-online/main/calculator.png)
 
 ### How to run
 
